@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/PolishReverseNotationCalculator.dir/Structures/Funct.cpp.o"
   "CMakeFiles/PolishReverseNotationCalculator.dir/main.cpp.o"
   "PolishReverseNotationCalculator"
   "PolishReverseNotationCalculator.pdb"

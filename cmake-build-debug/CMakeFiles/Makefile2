@@ -94,12 +94,12 @@ clean: CMakeFiles/PolishReverseNotationCalculator.dir/clean
 CMakeFiles/PolishReverseNotationCalculator.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/PolishReverseNotationCalculator.dir/build.make CMakeFiles/PolishReverseNotationCalculator.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/PolishReverseNotationCalculator.dir/build.make CMakeFiles/PolishReverseNotationCalculator.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/michalwawer/CLionProjects/PolishReverseNotationCalculator/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target PolishReverseNotationCalculator"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/michalwawer/CLionProjects/PolishReverseNotationCalculator/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target PolishReverseNotationCalculator"
 .PHONY : CMakeFiles/PolishReverseNotationCalculator.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/PolishReverseNotationCalculator.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/michalwawer/CLionProjects/PolishReverseNotationCalculator/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/michalwawer/CLionProjects/PolishReverseNotationCalculator/cmake-build-debug/CMakeFiles 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/PolishReverseNotationCalculator.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/michalwawer/CLionProjects/PolishReverseNotationCalculator/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/PolishReverseNotationCalculator.dir/rule

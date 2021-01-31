@@ -6,6 +6,20 @@
 
 #IncludeRegexTransform: 
 
+/Users/michalwawer/CLionProjects/PolishReverseNotationCalculator/Structures/CustomException.hpp
+
+/Users/michalwawer/CLionProjects/PolishReverseNotationCalculator/Structures/MyStack.hpp
+SingleLinkedList.hpp
+/Users/michalwawer/CLionProjects/PolishReverseNotationCalculator/Structures/SingleLinkedList.hpp
+
+/Users/michalwawer/CLionProjects/PolishReverseNotationCalculator/Structures/Node.hpp
+
+/Users/michalwawer/CLionProjects/PolishReverseNotationCalculator/Structures/SingleLinkedList.hpp
+Node.hpp
+/Users/michalwawer/CLionProjects/PolishReverseNotationCalculator/Structures/Node.hpp
+CustomException.hpp
+/Users/michalwawer/CLionProjects/PolishReverseNotationCalculator/Structures/CustomException.hpp
+
 /Users/michalwawer/CLionProjects/PolishReverseNotationCalculator/main.cpp
 iostream
 -
@@ -13,4 +27,10 @@ stack
 -
 sstream
 -
+fstream
+-
+Structures/MyStack.hpp
+/Users/michalwawer/CLionProjects/PolishReverseNotationCalculator/Structures/MyStack.hpp
+Structures/SingleLinkedList.hpp
+/Users/michalwawer/CLionProjects/PolishReverseNotationCalculator/Structures/SingleLinkedList.hpp
 

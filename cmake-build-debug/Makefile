@@ -143,6 +143,33 @@ PolishReverseNotationCalculator/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/PolishReverseNotationCalculator.dir/build.make CMakeFiles/PolishReverseNotationCalculator.dir/build
 .PHONY : PolishReverseNotationCalculator/fast
 
+Structures/Funct.o: Structures/Funct.cpp.o
+
+.PHONY : Structures/Funct.o
+
+# target to build an object file
+Structures/Funct.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/PolishReverseNotationCalculator.dir/build.make CMakeFiles/PolishReverseNotationCalculator.dir/Structures/Funct.cpp.o
+.PHONY : Structures/Funct.cpp.o
+
+Structures/Funct.i: Structures/Funct.cpp.i
+
+.PHONY : Structures/Funct.i
+
+# target to preprocess a source file
+Structures/Funct.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/PolishReverseNotationCalculator.dir/build.make CMakeFiles/PolishReverseNotationCalculator.dir/Structures/Funct.cpp.i
+.PHONY : Structures/Funct.cpp.i
+
+Structures/Funct.s: Structures/Funct.cpp.s
+
+.PHONY : Structures/Funct.s
+
+# target to generate assembly for a file
+Structures/Funct.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/PolishReverseNotationCalculator.dir/build.make CMakeFiles/PolishReverseNotationCalculator.dir/Structures/Funct.cpp.s
+.PHONY : Structures/Funct.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -179,6 +206,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... PolishReverseNotationCalculator"
+	@echo "... Structures/Funct.o"
+	@echo "... Structures/Funct.i"
+	@echo "... Structures/Funct.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

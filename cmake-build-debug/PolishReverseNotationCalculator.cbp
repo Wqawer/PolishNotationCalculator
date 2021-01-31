@@ -80,6 +80,24 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/michalwawer/CLionProjects/PolishReverseNotationCalculator/Structures/CustomException.hpp">
+			<Option target="PolishReverseNotationCalculator"/>
+		</Unit>
+		<Unit filename="/Users/michalwawer/CLionProjects/PolishReverseNotationCalculator/Structures/Funct.cpp">
+			<Option target="PolishReverseNotationCalculator"/>
+		</Unit>
+		<Unit filename="/Users/michalwawer/CLionProjects/PolishReverseNotationCalculator/Structures/Funct.hpp">
+			<Option target="PolishReverseNotationCalculator"/>
+		</Unit>
+		<Unit filename="/Users/michalwawer/CLionProjects/PolishReverseNotationCalculator/Structures/MyStack.hpp">
+			<Option target="PolishReverseNotationCalculator"/>
+		</Unit>
+		<Unit filename="/Users/michalwawer/CLionProjects/PolishReverseNotationCalculator/Structures/Node.hpp">
+			<Option target="PolishReverseNotationCalculator"/>
+		</Unit>
+		<Unit filename="/Users/michalwawer/CLionProjects/PolishReverseNotationCalculator/Structures/SingleLinkedList.hpp">
+			<Option target="PolishReverseNotationCalculator"/>
+		</Unit>
 		<Unit filename="/Users/michalwawer/CLionProjects/PolishReverseNotationCalculator/main.cpp">
 			<Option target="PolishReverseNotationCalculator"/>
 		</Unit>

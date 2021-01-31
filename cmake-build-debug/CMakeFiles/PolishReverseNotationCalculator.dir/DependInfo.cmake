@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/michalwawer/CLionProjects/PolishReverseNotationCalculator/Structures/Funct.cpp" "/Users/michalwawer/CLionProjects/PolishReverseNotationCalculator/cmake-build-debug/CMakeFiles/PolishReverseNotationCalculator.dir/Structures/Funct.cpp.o"
   "/Users/michalwawer/CLionProjects/PolishReverseNotationCalculator/main.cpp" "/Users/michalwawer/CLionProjects/PolishReverseNotationCalculator/cmake-build-debug/CMakeFiles/PolishReverseNotationCalculator.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
